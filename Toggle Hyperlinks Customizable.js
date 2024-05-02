@@ -13,7 +13,7 @@
 
     // 用户配置区
     var buttonConfig = {
-        bottom: '20px',       // 按钮距底部的距离
+        bottom: '0px',       // 按钮距底部的距离
         left: '20px',        // 按钮距左侧的距离
         fontSize: '10px',     // 按钮内文字的字体大小
         padding: '3px 9px', // 按钮的内边距，可以调整按钮的大小
